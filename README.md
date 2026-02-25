@@ -8,7 +8,7 @@ Here is the final, copy-paste-ready **README.md** for your GitHub repository. It
 
 ## 🔗 Project Links
 
-* **Live Hosted App**: [[Insert Vercel URL](https://order-management-raftlabs.vercel.app/)]
+* **Live Hosted App**: [[Live Link](https://order-management-raftlabs.vercel.app/)]
 * **Loom Video Walkthrough**: [Insert Loom URL]
 
 ---
@@ -96,4 +96,3 @@ npm run test
 
 ---
 
-**Would you like me to generate a specific "Thank You" message to include in your final email to the RaftLabs team?**
